@@ -9,7 +9,7 @@
     <title>Home</title>
 </head>
 <body>
-    <form action="Controller" method="post">
+    <form action="/controller" method="post">
         <input type="submit" name="Form Button">
     </form>
 </body>
